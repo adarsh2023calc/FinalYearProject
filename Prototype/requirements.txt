@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc>=0.43.0
+numpy
+pydub
+soundfile
+whisper    # optional, for local Whisper backend
+openai     # optional, for OpenAI API backend
+aiofiles
